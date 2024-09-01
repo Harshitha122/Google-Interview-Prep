@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 ## Bit Manipulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
