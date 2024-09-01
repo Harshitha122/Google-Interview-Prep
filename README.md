@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
