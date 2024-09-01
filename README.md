@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0163-missing-ranges](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0163-missing-ranges) |
+| [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -127,14 +129,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
 | ------- |
