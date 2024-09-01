@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
