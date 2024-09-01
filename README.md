@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
