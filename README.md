@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
