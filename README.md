@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0163-missing-ranges](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0163-missing-ranges) |
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -150,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
