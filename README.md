@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
