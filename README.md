@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
+| [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
