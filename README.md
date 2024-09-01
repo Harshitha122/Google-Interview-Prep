@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0213-house-robber-ii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
+| [0213-house-robber-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0213-house-robber-ii) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 ## Bit Manipulation
 |  |
