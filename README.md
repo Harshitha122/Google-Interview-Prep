@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Enumeration
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
+## Geometry
+|  |
+| ------- |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
