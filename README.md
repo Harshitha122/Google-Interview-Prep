@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
