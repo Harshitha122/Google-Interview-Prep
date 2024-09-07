@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Enumeration
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Prefix Sum
 |  |
 | ------- |
