@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
