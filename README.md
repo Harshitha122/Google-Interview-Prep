@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0090-subsets-ii) |
 | [0266-palindrome-permutation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
 |  |
