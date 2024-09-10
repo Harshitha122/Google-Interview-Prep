@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0249-group-shifted-strings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0249-group-shifted-strings) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
 ## Union Find
