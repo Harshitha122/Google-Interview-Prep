@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0134-gas-station) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 ## Counting
