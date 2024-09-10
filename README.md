@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Union Find
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Tree
+|  |
+| ------- |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
 <!---LeetCode Topics End-->
