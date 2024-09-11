@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
+| [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
 ## String
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
 ## Tree
 |  |
 | ------- |
@@ -283,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
