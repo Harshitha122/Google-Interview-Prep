@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0652-find-duplicate-subtrees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0652-find-duplicate-subtrees) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0652-find-duplicate-subtrees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0652-find-duplicate-subtrees) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Breadth-First Search
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0652-find-duplicate-subtrees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Linked List
 |  |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
