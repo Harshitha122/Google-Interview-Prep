@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0213-house-robber-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
