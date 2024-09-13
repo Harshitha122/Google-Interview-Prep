@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0134-gas-station) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
 |  |
 | ------- |
