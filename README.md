@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 | [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 ## Divide and Conquer
 |  |
