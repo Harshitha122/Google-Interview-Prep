@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0204-count-primes) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
 |  |
