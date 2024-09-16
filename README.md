@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
+| [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
+| [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
