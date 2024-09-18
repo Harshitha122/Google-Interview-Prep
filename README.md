@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3528-reach-end-of-array-with-max-score) |
+| [3551-maximum-xor-score-subarray-queries](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3551-maximum-xor-score-subarray-queries](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
