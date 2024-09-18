@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
+| [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
+| [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0564-find-the-closest-palindrome) |
+| [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
