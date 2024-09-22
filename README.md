@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-find-anagram-mappings](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0762-find-anagram-mappings) |
 | [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
+| [1025-minimum-cost-for-tickets](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1025-minimum-cost-for-tickets) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1025-minimum-cost-for-tickets) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
