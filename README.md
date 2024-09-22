@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
