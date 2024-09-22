@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 | [0487-max-consecutive-ones-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0487-max-consecutive-ones-ii) |
 | [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
+| [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0287-find-the-duplicate-number) |
+| [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0268-missing-number) |
+| [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0539-minimum-time-difference) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
