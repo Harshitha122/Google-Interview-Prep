@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 | [2161-stock-price-fluctuation](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2161-stock-price-fluctuation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0140-word-break-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
