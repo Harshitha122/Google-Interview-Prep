@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1025-minimum-cost-for-tickets) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1025-minimum-cost-for-tickets) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
