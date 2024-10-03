@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0064-minimum-path-sum) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0273-integer-to-english-words) |
 ## Heap (Priority Queue)
 |  |
