@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3265-maximum-good-subarray-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Backtracking
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -248,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1380-number-of-closed-islands) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
