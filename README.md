@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Bit Manipulation
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0909-stone-game) |
 | [1213-handshakes-that-dont-cross](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1213-handshakes-that-dont-cross) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3388-right-triangles](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3388-right-triangles) |
 ## Game Theory
 |  |
