@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 | [1923-sentence-similarity-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0134-gas-station) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Matrix
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0983-validate-stack-sequences](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/0983-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2485-finding-the-number-of-visible-mountains](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2485-finding-the-number-of-visible-mountains) |
 | [3158-maximum-length-of-semi-decreasing-subarrays](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3158-maximum-length-of-semi-decreasing-subarrays) |
 ## Monotonic Stack
