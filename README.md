@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-single-row-keyboard](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1123-single-row-keyboard) |
 | [1923-sentence-similarity-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1559-cherry-pickup-ii) |
 | [1583-paint-house-iii](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1583-paint-house-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3033-apply-operations-to-make-two-strings-equal](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Harshitha122/Google-Interview-Prep/tree/master/3551-maximum-xor-score-subarray-queries) |
 ## Bit Manipulation
